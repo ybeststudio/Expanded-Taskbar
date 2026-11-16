@@ -1,0 +1,4 @@
+TASKBAR_AUTO_HUNT	Automatyczne polowanie
+TASKBAR_HUNTING_QUESTS	Zadania polowania
+TASKBAR_SWITCHBOT	Switchbot
+TASKBAR_WIKI	Wiki

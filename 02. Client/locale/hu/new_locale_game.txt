@@ -1,0 +1,3 @@
+TASKBAR_AUTO_HUNT	Automata vadászat
+TASKBAR_SWITCHBOT	Bûvölõ bot
+TASKBAR_WIKI	Wiki

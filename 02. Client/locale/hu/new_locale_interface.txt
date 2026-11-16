@@ -1,0 +1,4 @@
+TASKBAR_AUTO_HUNT	Automata vadászat
+TASKBAR_HUNTING_QUESTS	Vadász küldetések
+TASKBAR_SWITCHBOT	Bûvölõ bot
+TASKBAR_WIKI	Wiki

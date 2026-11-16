@@ -1,0 +1,4 @@
+TASKBAR_AUTO_HUNT	Automatický lov
+TASKBAR_HUNTING_QUESTS	Lovecké úkoly
+TASKBAR_SWITCHBOT	Bot na bonusy
+TASKBAR_WIKI	Wiki

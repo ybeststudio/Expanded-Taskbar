@@ -1,0 +1,3 @@
+TASKBAR_AUTO_HUNT	Caza automática
+TASKBAR_SWITCHBOT	Bot de encantamientos
+TASKBAR_WIKI	Wiki

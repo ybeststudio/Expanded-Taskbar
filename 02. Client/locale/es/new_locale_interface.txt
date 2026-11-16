@@ -1,0 +1,4 @@
+TASKBAR_AUTO_HUNT	Caza automática
+TASKBAR_HUNTING_QUESTS	Misiones de caza
+TASKBAR_SWITCHBOT	Bot de encantamientos
+TASKBAR_WIKI	Wiki

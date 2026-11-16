@@ -1,0 +1,4 @@
+TASKBAR_AUTO_HUNT	Caccia automatica
+TASKBAR_HUNTING_QUESTS	Missioni di caccia
+TASKBAR_SWITCHBOT	Bot incantesimi
+TASKBAR_WIKI	Wiki

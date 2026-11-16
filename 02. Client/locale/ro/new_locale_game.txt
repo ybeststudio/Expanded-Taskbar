@@ -1,0 +1,3 @@
+TASKBAR_AUTO_HUNT	Vânãtoare automatã
+TASKBAR_SWITCHBOT	Bot de vrãji
+TASKBAR_WIKI	Wiki
